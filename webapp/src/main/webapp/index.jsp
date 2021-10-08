@@ -4,3 +4,4 @@
 <h1> Good job Serge on learning Devops</h1>
 <h1> This is Igor I have completed my first deployment</h1>
 <h1>I love Jenkins so much !!!</h1>
+<h1> this is how we solve branches conflict </h1>
